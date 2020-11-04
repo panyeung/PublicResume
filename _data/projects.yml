@@ -16,8 +16,8 @@
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-  •Designed and implemented a website where users can store their favorite links.
-  • supports user log-in, posting and saving their favorite website, and editing previous submissions.
-  •Designed and implemented MongoDB infrastructure to store pictures/descriptions and user information.
-  Built using: JavaScript, HTML, CSS, MongoDB, Node.js, BootStrap4, ejs, passport, puppeteer, Cloudinary
+    Designed and implemented a website where users can store their favorite links.
+    supports user log-in, posting and saving their favorite website, and editing previous submissions.
+    Designed and implemented MongoDB infrastructure to store pictures/descriptions and user information.
+    Built using: JavaScript, HTML, CSS, MongoDB, Node.js, BootStrap4, ejs, passport, puppeteer, Cloudinary
     
