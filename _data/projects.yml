@@ -1,8 +1,23 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: E-Commerce Management System | personal project
+  link: https://management-system-product.herokuapp.com/
+  github: https://github.com/panyeung/System-Management
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    •Designed and implemented a management website for the E-commerce website.
+    •Used RESTful routes to allow Admin to create or assign different roles for their employees across all pages of the site.
+    •Designed and implemented MongoDB infrastructure to store pictures/descriptions of data and relevant information associated with users.
+    Languages and Frameworks used: JavaScript, HTML, CSS, MongoDB, Node.js, Antd, React.js, react-redux,md5
+
+  name: Collection of Links| personal project
+  link:  https://collection-of-links.herokuapp.com/
+  github: https://github.com/panyeung/Collections-Of-Links
+  quote: >
+    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+  •Designed and implemented a website where users can store their favorite links.
+  • supports user log-in, posting and saving their favorite website, and editing previous submissions.
+  •Designed and implemented MongoDB infrastructure to store pictures/descriptions and user information.
+  Built using: JavaScript, HTML, CSS, MongoDB, Node.js, BootStrap4, ejs, passport, puppeteer, Cloudinary
+    
